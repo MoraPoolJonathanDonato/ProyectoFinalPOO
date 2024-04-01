@@ -1,0 +1,2 @@
+1001, Juan Perez, 100
+1002, Maria Lopez, 120
